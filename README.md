@@ -1,5 +1,5 @@
 # Multiprocess Multithread Web Server Benchmark Analyzer
-Analyzer that analyzes the difference in latency between multiprocess web server and multithread web server. Generally multihread more faster than multiprocess!
+Analyzer that analyzes the difference in latency between multiprocess web server and multithread web server. Generally multihread more faster than multiprocess.
 
 ![result](https://user-images.githubusercontent.com/38535571/84592734-cad29000-ae82-11ea-8b31-01f9e3da17e0.png)
 ![multiprocess](https://user-images.githubusercontent.com/38535571/84592742-d7ef7f00-ae82-11ea-81df-29c20f5e022a.png)
