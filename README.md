@@ -7,7 +7,7 @@ Analyzer that analyzes the difference in latency between multiprocess web server
 
 ### Installation
 ```sh
-$ git clone https://github.com/yoonje/http-https-benchmark-analyzer
+$ git clone https://github.com/yoonje/multiprocess-multithread-web-server-benchmark-analyzer
 ```
 
 ### Address
